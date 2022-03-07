@@ -1,5 +1,7 @@
 # Cotizador de criptomonedas en tiempo real
 
-###React
-###Custom Hooks
-###Responsive Design
+React -
+
+Custom Hooks -
+
+Responsive Design -
